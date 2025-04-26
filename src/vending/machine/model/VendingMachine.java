@@ -1,7 +1,7 @@
-package Model;
+package vending.machine.model;
 
-import States.VendingMachineState;
-import States.impl.IdleState;
+import vending.machine.states.VendingMachineState;
+import vending.machine.states.impl.IdleState;
 
 import java.util.ArrayList;
 import java.util.List;

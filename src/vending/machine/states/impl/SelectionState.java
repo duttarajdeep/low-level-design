@@ -1,9 +1,9 @@
-package States.impl;
+package vending.machine.states.impl;
 
-import Model.Coin;
-import Model.Item;
-import Model.VendingMachine;
-import States.VendingMachineState;
+import vending.machine.model.Coin;
+import vending.machine.model.Item;
+import vending.machine.model.VendingMachine;
+import vending.machine.states.VendingMachineState;
 
 import java.util.List;
 

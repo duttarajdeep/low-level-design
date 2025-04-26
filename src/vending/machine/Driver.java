@@ -1,5 +1,7 @@
-import Model.*;
-import States.VendingMachineState;
+package vending.machine;
+
+import vending.machine.model.*;
+import vending.machine.states.VendingMachineState;
 
 public class Driver {
     public static void main(String[] args) {

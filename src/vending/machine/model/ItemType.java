@@ -1,4 +1,4 @@
-package Model;
+package vending.machine.model;
 
 public enum ItemType {
     COKE,

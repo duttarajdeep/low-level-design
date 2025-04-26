@@ -1,4 +1,4 @@
-package Model;
+package vending.machine.model;
 
 public class ItemShelf {
     int code;
